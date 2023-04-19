@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani');
 
 :root {
-    --background-primary: url(https://nvb07.github.io/themesDiscord/2.jpg);
-    --background-secondary: url(https://nvb07.github.io/themesDiscord/2.jpg);
+/*     --background-primary: url(https://nvb07.github.io/themesDiscord/2.jpg);
+    --background-secondary: url(https://nvb07.github.io/themesDiscord/2.jpg); */
     /* --background-primary: linear-gradient(180deg, #a83131c0 10%, rgba(0,0,0,1) 65%); */
     /* --background-secondary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%); */
     --font-primary: Arial, Helvetica, sans-serif;
